@@ -1,3 +1,7 @@
+/* single page scroll behavior */
+*{
+	scroll-behavior: smooth;
+}
 body{
 	font-family: Arial, Heveltic, sans serif;
 	font-size: 16px;
